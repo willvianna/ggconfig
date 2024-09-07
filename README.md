@@ -12,6 +12,14 @@ Acredito que a tecnologia tem o poder de transformar vidas e solucionar problema
 * **Serviços de otimização:** Melhore o desempenho do seu computador com ajustes e configurações personalizadas.
 * **Suporte técnico remoto:** Resolva problemas e tire suas dúvidas sem sair de casa.
 
+## Tecnologias Utilizadas:
+* HTML
+* CSS
+* JavaScript
+
+## Sobre o projeto:
+Este projeto foi desenvolvido durante a Imersão Dev da Alura, uma oportunidade incrível de aprendizado prático e desenvolvimento de habilidades em programação. 🚀
+
 **Acesse o projeto:** https://ggconfig.vercel.app/
 
 ---
